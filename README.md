@@ -2,7 +2,7 @@
 
 ## Steps to install:
 
-1.clone the repo : 
+1.clone the repo : git clone https://github.com/abhishek305/kanban-board-reactjs.git
 
 2.Open the folder in a code editor or terminal root directory 
 
